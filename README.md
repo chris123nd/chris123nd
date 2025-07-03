@@ -20,8 +20,8 @@ I'm currently active in contributing to various projects to build applications i
 ### GitHub Statistics
 <p align="left">
 <a href="https://github.com/chris123nd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HandikaRonny&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HandikaRonny&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chris123nd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris123nd&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
