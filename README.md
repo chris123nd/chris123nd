@@ -27,5 +27,5 @@ I'm currently active in contributing to various projects to build applications i
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/christiansimangunsong">LinkedIn</a>
-- <a href="myportfolio-nu-drab.vercel.app">My Website</a>
+- <a href="[myportfolio-nu-drab.vercel.app](https://myportfolio-nu-drab.vercel.app/)">My Website</a>
 - christiansimangunsong2018@gmail.com@gmail.com
