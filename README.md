@@ -12,6 +12,7 @@ I'm currently active in contributing to various projects to build applications i
 ### Tech Stack
 <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
 <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
+<a href="https://vuejs.org/"><img align="left" alt="Vue.js" title="Vue.js" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
 <a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" /></a>
 <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" title="Bootstrap" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" /></a>
 <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
@@ -28,4 +29,4 @@ I'm currently active in contributing to various projects to build applications i
 ### Reach me on
 - <a href="https://www.linkedin.com/in/christiansimangunsong">LinkedIn</a>
 - <a href="https://myportfolio-nu-drab.vercel.app/">My Website</a>
-- christiansimangunsong2018@gmail.com@gmail.com
+- christiansimangunsong2018@gmail.com
